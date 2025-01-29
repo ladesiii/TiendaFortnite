@@ -1,0 +1,22 @@
+.productes {
+
+    width: 70vw;
+}
+
+img {
+    width: 200px;
+}
+
+h1,
+h2,
+h3 {
+    padding: 5px;
+
+}
+
+.tenda {
+
+    background-color: white;
+    width: 70vw;
+
+}
