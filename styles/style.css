@@ -2,9 +2,9 @@ body{
     background-image: url("../Media/Imagenes/fons.png");
     background-attachment: fixed ;
 }
-h1, h2{
-    padding: 20px;
-    color: white;
+h1, h2, h3{
+    padding: 40px;
+    color: white !important;
 }
 .container{
     display: flex;
