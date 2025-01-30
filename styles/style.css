@@ -20,3 +20,6 @@ img{
 img:hover{
    border: 4px solid white ;
 }
+#cancion img {
+    cursor: pointer;
+}
