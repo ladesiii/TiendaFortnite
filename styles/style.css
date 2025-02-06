@@ -32,3 +32,9 @@ img,video:hover{
 .skin:hover .skin-video {
     display: block;
 }
+
+.skin-video {
+    display: none;
+    width: 100%;
+    height: auto;
+}
