@@ -22,7 +22,20 @@ h3 {
 
 .tenda {
 
-    background-color: white;
+    background-color: rgba(67, 17, 204, 0.103);
     width: 30vw;
+
+}
+
+.titol-carrito {
+
+    
+    text-align: center;
+
+}
+
+img {
+
+margin: 5px;
 
 }
