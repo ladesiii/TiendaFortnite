@@ -13,13 +13,22 @@ h1, h2, h3{
 .skin{
     padding: 20px;
 }
-img{
+img,video{
     width: 400px;
     border-radius: 15px;
 }
-img:hover{
+img,video:hover{
    border: 4px solid white ;
 }
+
 #cancion img {
     cursor: pointer;
+}
+
+.skin:hover .skin-image {
+    display: none;
+}
+
+.skin:hover .skin-video {
+    display: block;
 }
